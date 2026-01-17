@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a complete implementation of a decentralized IoT smart home automation system developed for the Computer Networks course at VIT Chennai (Fall 2025-26). The system uses a custom-built embedded router with a secure local network, ESP8266-based relay modules for appliance control, and a Flask web dashboard running on a Debian VM via QEMU/KVM.
+This repository contains a complete implementation of a decentralized IoT smart home automation system developed for the Computer Networks course at VIT Chennai (Fall 2025-26). The system uses a custom built embedded router with a secure local network, ESP8266-based relay modules for appliance control, and a Flask web dashboard running on a Debian VM via QEMU/KVM.
 
 **Key Principle**: Privacy-focused, offline-capable, zero cloud dependency.
 
